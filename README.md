@@ -13,10 +13,16 @@ Meaning: The presence of a TP53 mutation in patients with pancreatic adenocarcin
 Kristin Syed BS Biology UTCOM
 3000 Arlington Ave.
 Toledo, OH 43614
-419.383.4000 
+419.383.4000
+
 Vyshnavi Reddy MS, UTCOM
+
 Judy Daboul BS, UTCOM
+
 Nicholas Thompson BS, UTCOM
+
 Hamza Syed BS, Independent Data Scientist
+
 Joseph Sferra MD, Promedica Hospital 
+
 Jeffrey Sutton MD, UTMC

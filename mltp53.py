@@ -19,7 +19,7 @@ kmf = KaplanMeierFitter()
 cph = CoxPHFitter()
 
 
-# kaplan meier fitter, should give a graph. works!
+# kaplan meier fitter
 T = df["duration"]
 E = df["event"]
 

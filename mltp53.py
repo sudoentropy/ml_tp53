@@ -1,5 +1,5 @@
 """
-Operative file for tp53 paper
+Operative code for tp53 paper
 
 
 """

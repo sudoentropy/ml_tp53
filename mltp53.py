@@ -2,6 +2,16 @@
 Operative code for tp53 paper
 
 
+Kristin Syed BS. University of Toledo College of Medicine (UTCOM)
+3000 Arlington Ave.
+Toledo, OH 43614
+419.383.4000
+Vyshnavi Reddy MS. UTCOM.
+Judy Daboul BS. UTCOM.
+Nicholas Thompson BS.
+Hamza Syed BS. Independent Data Scientist.
+Joseph Sferra MD. Promedica Toledo Hospital.
+Jeffrey Sutton MD. UTCOM.
 """
 
 

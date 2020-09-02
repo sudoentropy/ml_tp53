@@ -10,6 +10,7 @@ Vyshnavi Reddy MS. UTCOM.
 Judy Daboul BS. UTCOM.
 Nicholas Thompson BS.
 Hamza Syed BS. Independent Data Scientist.
+Gang Ren [credentials and affiliations]
 Joseph Sferra MD. Promedica Toledo Hospital.
 Jeffrey Sutton MD. UTCOM.
 """

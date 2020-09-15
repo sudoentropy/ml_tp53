@@ -10,9 +10,9 @@ Toledo, OH 43614
 
 Vyshnavi Reddy MS. UTCOM.
 Judy Daboul BS. UTCOM.
-Nicholas Thompson BS.
+Nicholas Thompson BS. UTCOM.
 Hamza Syed BS. Independent.
-Gang Ren PhD. UTCOM
+Gang Ren PhD. UTCOM.
 Joseph Sferra MD. Promedica Toledo Hospital.
 Jeffrey Sutton MD. UTCOM.
 """

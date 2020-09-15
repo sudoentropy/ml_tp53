@@ -24,7 +24,7 @@ from lifelines.statistics import multivariate_logrank_test
 
 
 # importing data and calling functions
-df = pd.read_csv("aug_3_new_genes.csv", sep=",")
+df = pd.read_csv("all_genes_60months.csv", sep=",")
 
 kmf = KaplanMeierFitter()
 cph = CoxPHFitter()

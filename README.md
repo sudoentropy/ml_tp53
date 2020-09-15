@@ -24,8 +24,10 @@ Judy Daboul BS, UTCOM
 
 Nicholas Thompson BS, UTCOM
 
-Hamza Syed BS, Independent Data Scientist
+Hamza Syed BS, Independent.
 
-Joseph Sferra MD, Promedica Hospital 
+Gang Ren PhD. UTCOM. 
 
-Jeffrey Sutton MD, UTMC
+Joseph Sferra MD, Promedica Hospital. 
+
+Jeffrey Sutton MD, UTCOM.

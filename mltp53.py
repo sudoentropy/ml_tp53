@@ -9,8 +9,8 @@ Toledo, OH 43614
 Vyshnavi Reddy MS. UTCOM.
 Judy Daboul BS. UTCOM.
 Nicholas Thompson BS.
-Hamza Syed BS. Independent Data Scientist.
-Gang Ren [credentials and affiliations]
+Hamza Syed BS. Independent.
+Gang Ren PhD. UTCOM
 Joseph Sferra MD. Promedica Toledo Hospital.
 Jeffrey Sutton MD. UTCOM.
 """
